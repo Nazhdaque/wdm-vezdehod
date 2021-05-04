@@ -1,3 +1,5 @@
 readme.md
 /node_modules/
 /app/images/src/
+*.DS_Store
+._*
